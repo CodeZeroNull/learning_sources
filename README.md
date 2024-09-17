@@ -7,6 +7,5 @@ A few learning resources.
 ## R
 
 ### Building reproducible analytical pipelines with R
-By Bruno Rodrigues
-Date 2023-10-03
+By Bruno Rodrigues on 2023-10-03  
 https://raps-with-r.dev/
