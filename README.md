@@ -1,4 +1,6 @@
-A few learning resources
+A few learning resources.
+
+** ...(work in progress - need to do archeological work in my bookmarks)... **
 
 
 
